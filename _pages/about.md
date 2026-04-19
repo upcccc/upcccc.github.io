@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Welcome to my academic homepage! 
 I am an incoming Direct Ph.D. student at the College of Control Science and Engineering, Zhejiang University (ZJU). Currently, I am completing my undergraduate studies in Automation at the [China University of Petroleum (East China)](https://www.upc.edu.cn/), where I rank **1st** in my department(**1/138**). 
 My research interests lie broadly in **Reinforcement Learning, Control, and Brain-Computer Interfaces (BCI)**. Previously, I was a research intern at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences(CASIA), focusing on privacy-preserving machine learning for EEG data.
